@@ -1,2 +1,0 @@
-# vimeo
-Vimeo Internship Challenge
