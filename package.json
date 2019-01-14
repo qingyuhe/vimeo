@@ -4,6 +4,8 @@
   "description": "Vimeo Internship Challenge",
   "main": "src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -18,10 +20,10 @@
   "bugs": {
     "url": "https://github.com/qingyuhe/vimeo/issues"
   },
-  "homepage": "https://github.com/qingyuhe/vimeo#readme",
+  "homepage": "https://qingyuhe.github.io",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.7.0",
-    "react-animated-slider": "^1.1.4",
     "react-dom": "^16.7.0",
     "react-scripts": "^2.1.3"
   },
