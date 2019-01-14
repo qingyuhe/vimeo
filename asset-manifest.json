@@ -1,0 +1,13 @@
+{
+  "main.css": "/vimeo/static/css/main.5b862033.chunk.css",
+  "main.js": "/vimeo/static/js/main.2e989c14.chunk.js",
+  "main.js.map": "/vimeo/static/js/main.2e989c14.chunk.js.map",
+  "static/js/1.0f5d1015.chunk.js": "/vimeo/static/js/1.0f5d1015.chunk.js",
+  "static/js/1.0f5d1015.chunk.js.map": "/vimeo/static/js/1.0f5d1015.chunk.js.map",
+  "runtime~main.js": "/vimeo/static/js/runtime~main.23ac19ff.js",
+  "runtime~main.js.map": "/vimeo/static/js/runtime~main.23ac19ff.js.map",
+  "static/css/main.5b862033.chunk.css.map": "/vimeo/static/css/main.5b862033.chunk.css.map",
+  "index.html": "/vimeo/index.html",
+  "precache-manifest.ad50aa2ce614e39b71546fefd50c6cb3.js": "/vimeo/precache-manifest.ad50aa2ce614e39b71546fefd50c6cb3.js",
+  "service-worker.js": "/vimeo/service-worker.js"
+}
